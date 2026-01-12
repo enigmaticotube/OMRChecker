@@ -1,8 +1,10 @@
 opencv-python-headless==4.9.0.80
-numpy>=1.25.0
-pandas>=2.0.2
-matplotlib>=3.7.1
-jsonschema>=4.17.3
-rich>=13.4.2
-scipy
-imutils
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.8.4
+rich==13.7.1
+scikit-image==0.22.0
+imutils==0.5.4
+fastapi==0.110.0
+uvicorn==0.29.0
+python-multipart==0.0.9
